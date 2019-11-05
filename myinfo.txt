@@ -1,1 +1,4 @@
 "Name : Muhammad Adnan" 
+"Email: muhammadadnan99786@ucp.edu.pk"
+"Degree: BSCS"
+"Institute: UCP"
